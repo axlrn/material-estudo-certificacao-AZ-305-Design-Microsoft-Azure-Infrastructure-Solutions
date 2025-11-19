@@ -1,10 +1,12 @@
-## Este repositório contém o material de estudo para a certificação AZ-305T00-A Designing Microsoft Azure Infrastructure Solutions
+# Material de Estudo para a Certificação AZ-305T00-A: Designing Microsoft Azure Infrastructure Solutions
 
-# Estudos de caso
+Este repositório contém o material de estudo para a certificação AZ-305T00-A Designing Microsoft Azure Infrastructure Solutions
 
-Nessa pasta está a resolução dos estudos de caso passados no curos.
+## Estudos de caso
+
+Nessa pasta está a resolução dos estudos de caso passados no curso.
 
 
-# Laboratório
+## Laboratório
 
-Nessa pasta está a geração de um passo a passo para a implementação dos Estudos de Caso
+Nessa pasta está a geração de um passo a passo para a implementação dos Estudos de Caso.
